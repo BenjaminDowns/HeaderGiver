@@ -1,0 +1,20 @@
+{
+    "name": "header-giver",
+    "version": "1.0.0",
+    "description": "Gives you your ip address, language, and OS.",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [
+        "freecodecamp",
+        "header-giver",
+        "toy",
+        "projects"
+    ],
+    "author": "Benjamin M. Downs",
+    "license": "ISC""dependencies": {
+        "express": "^4.13.1"
+    }
+}
