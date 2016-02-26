@@ -14,7 +14,8 @@
         "projects"
     ],
     "author": "Benjamin M. Downs",
-    "license": "ISC""dependencies": {
+    "license": "ISC",
+    "dependencies": {
         "express": "^4.13.1"
     }
 }
